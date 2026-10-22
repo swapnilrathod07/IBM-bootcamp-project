@@ -9,7 +9,7 @@
 [![Track](https://img.shields.io/badge/IBM_Bootcamp-Cybersecurity_SOC-6366f1?style=for-the-badge)](PROJECT_REPORT.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-f59e0b?style=for-the-badge)](LICENSE)
 
-**[🌐 Launch Live Web Command Center](https://swapnilrathod07.github.io/IBM-bootcamp-project/)** • **[📋 Submission Dossier](file:///C:/Users/swapn/.gemini/antigravity/brain/92a4ce48-8c42-416f-87e0-07ccd77ff1e2/ibm_bootcamp_submission_dossier.md)** • **[📘 Project Report](PROJECT_REPORT.md)**
+**[🌐 Launch Live Web Command Center](https://swapnilrathod07.github.io/IBM-bootcamp-project/)** • **[📘 Project Report](PROJECT_REPORT.md)** • **[📄 Download PDF Report](CyberPulse_Project_Report.pdf)**
 
 </div>
 
