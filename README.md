@@ -42,6 +42,20 @@
 
 ---
 
+## 🗄️ Threat Telemetry Datasets & Feeds
+
+CyberPulse correlates multi-sourced cyber threat telemetry across authoritative threat intelligence providers and includes an embedded deterministic fixture dataset for testing and zero-install client-side simulation:
+
+| Dataset / Intelligence Feed | Source / Link | Primary Attributes | Application Role |
+| :--- | :--- | :--- | :--- |
+| **AlienVault OTX** | [otx.alienvault.com](https://otx.alienvault.com) | Malware pulses, adversary tags, indicators | Threat correlation & campaign mapping |
+| **AbuseIPDB Blacklist** | [abuseipdb.com](https://www.abuseipdb.com) | Confidence score, total reports, country | IP reputation & abuse scoring |
+| **VirusTotal V3** | [virustotal.com](https://www.virustotal.com) | AV detections count, hash reputation, categories | Multi-vendor verification |
+| **IP-API Geolocation** | [ip-api.com](https://ip-api.com) | Country, City, ISP, ASN, Latitude/Longitude | Geospatial map tracking |
+| **CyberPulse Test Dataset** | [`CyberPulse/modules/mock_data.py`](CyberPulse/modules/mock_data.py) | Tor nodes, LockBit hashes, Phish URLs, RFC 1918 subnets | Offline demo & automated test suite (187 tests) |
+
+---
+
 ## 🏗️ Architecture & Component Hierarchy
 
 ```
